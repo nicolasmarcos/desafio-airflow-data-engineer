@@ -1,0 +1,55 @@
+[2023-07-23 14:36:43,739] {scheduler_job.py:182} INFO - Started process (PID=178) to work on /opt/airflow/dags/covid19.py
+[2023-07-23 14:36:43,743] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/covid19.py for tasks to queue
+[2023-07-23 14:36:43,746] {logging_mixin.py:104} INFO - [2023-07-23 14:36:43,746] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/covid19.py
+[2023-07-23 14:36:43,984] {logging_mixin.py:104} INFO - Log source raw: ./datalake/raw/covid19
+[2023-07-23 14:36:43,993] {logging_mixin.py:104} INFO - Log target trusted: ./datalake/trusted
+[2023-07-23 14:36:43,998] {logging_mixin.py:104} INFO - Log source refined: ./datalake/trusted
+[2023-07-23 14:36:44,000] {logging_mixin.py:104} INFO - Log target refined: ./datalake/refined
+[2023-07-23 14:36:44,048] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['covid19']) retrieved from /opt/airflow/dags/covid19.py
+[2023-07-23 14:36:44,053] {logging_mixin.py:104} INFO - [2023-07-23 14:36:44,053] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-07-23 14:36:44,066] {logging_mixin.py:104} INFO - [2023-07-23 14:36:44,066] {dag.py:2273} INFO - Setting next_dagrun for covid19 to 2023-07-23 14:16:44.419404+00:00
+[2023-07-23 14:36:44,070] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/covid19.py took 0.333 seconds
+[2023-07-23 14:37:14,988] {scheduler_job.py:182} INFO - Started process (PID=193) to work on /opt/airflow/dags/covid19.py
+[2023-07-23 14:37:14,988] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/covid19.py for tasks to queue
+[2023-07-23 14:37:14,989] {logging_mixin.py:104} INFO - [2023-07-23 14:37:14,989] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/covid19.py
+[2023-07-23 14:37:15,258] {logging_mixin.py:104} INFO - Log source raw: ./datalake/raw/covid19
+[2023-07-23 14:37:15,263] {logging_mixin.py:104} INFO - Log target trusted: ./datalake/trusted
+[2023-07-23 14:37:15,279] {logging_mixin.py:104} INFO - Log source refined: ./datalake/trusted
+[2023-07-23 14:37:15,295] {logging_mixin.py:104} INFO - Log target refined: ./datalake/refined
+[2023-07-23 14:37:15,344] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['covid19']) retrieved from /opt/airflow/dags/covid19.py
+[2023-07-23 14:37:15,349] {logging_mixin.py:104} INFO - [2023-07-23 14:37:15,349] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-07-23 14:37:15,359] {logging_mixin.py:104} INFO - [2023-07-23 14:37:15,359] {dag.py:2273} INFO - Setting next_dagrun for covid19 to 2023-07-23 14:16:44.419404+00:00
+[2023-07-23 14:37:15,383] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/covid19.py took 0.397 seconds
+[2023-07-23 14:37:46,124] {scheduler_job.py:182} INFO - Started process (PID=663) to work on /opt/airflow/dags/covid19.py
+[2023-07-23 14:37:46,125] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/covid19.py for tasks to queue
+[2023-07-23 14:37:46,126] {logging_mixin.py:104} INFO - [2023-07-23 14:37:46,125] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/covid19.py
+[2023-07-23 14:37:46,552] {logging_mixin.py:104} INFO - Log source raw: ./datalake/raw/covid19
+[2023-07-23 14:37:46,553] {logging_mixin.py:104} INFO - Log target trusted: ./datalake/trusted
+[2023-07-23 14:37:46,563] {logging_mixin.py:104} INFO - Log source refined: ./datalake/trusted
+[2023-07-23 14:37:46,568] {logging_mixin.py:104} INFO - Log target refined: ./datalake/refined
+[2023-07-23 14:37:46,616] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['covid19']) retrieved from /opt/airflow/dags/covid19.py
+[2023-07-23 14:37:46,621] {logging_mixin.py:104} INFO - [2023-07-23 14:37:46,621] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-07-23 14:37:46,627] {logging_mixin.py:104} INFO - [2023-07-23 14:37:46,627] {dag.py:2273} INFO - Setting next_dagrun for covid19 to 2023-07-23 14:16:44.419404+00:00
+[2023-07-23 14:37:46,636] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/covid19.py took 0.513 seconds
+[2023-07-23 14:38:17,297] {scheduler_job.py:182} INFO - Started process (PID=811) to work on /opt/airflow/dags/covid19.py
+[2023-07-23 14:38:17,300] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/covid19.py for tasks to queue
+[2023-07-23 14:38:17,303] {logging_mixin.py:104} INFO - [2023-07-23 14:38:17,303] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/covid19.py
+[2023-07-23 14:38:17,711] {logging_mixin.py:104} INFO - Log source raw: ./datalake/raw/covid19
+[2023-07-23 14:38:17,712] {logging_mixin.py:104} INFO - Log target trusted: ./datalake/trusted
+[2023-07-23 14:38:17,714] {logging_mixin.py:104} INFO - Log source refined: ./datalake/trusted
+[2023-07-23 14:38:17,715] {logging_mixin.py:104} INFO - Log target refined: ./datalake/refined
+[2023-07-23 14:38:17,721] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['covid19']) retrieved from /opt/airflow/dags/covid19.py
+[2023-07-23 14:38:17,726] {logging_mixin.py:104} INFO - [2023-07-23 14:38:17,726] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-07-23 14:38:17,733] {logging_mixin.py:104} INFO - [2023-07-23 14:38:17,733] {dag.py:2273} INFO - Setting next_dagrun for covid19 to 2023-07-23 14:16:44.419404+00:00
+[2023-07-23 14:38:17,738] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/covid19.py took 0.442 seconds
+[2023-07-23 14:38:47,871] {scheduler_job.py:182} INFO - Started process (PID=821) to work on /opt/airflow/dags/covid19.py
+[2023-07-23 14:38:47,876] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/covid19.py for tasks to queue
+[2023-07-23 14:38:47,877] {logging_mixin.py:104} INFO - [2023-07-23 14:38:47,876] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/covid19.py
+[2023-07-23 14:38:48,346] {logging_mixin.py:104} INFO - Log source raw: ./datalake/raw/covid19
+[2023-07-23 14:38:48,353] {logging_mixin.py:104} INFO - Log target trusted: ./datalake/trusted
+[2023-07-23 14:38:48,354] {logging_mixin.py:104} INFO - Log source refined: ./datalake/trusted
+[2023-07-23 14:38:48,355] {logging_mixin.py:104} INFO - Log target refined: ./datalake/refined
+[2023-07-23 14:38:48,361] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['covid19']) retrieved from /opt/airflow/dags/covid19.py
+[2023-07-23 14:38:48,366] {logging_mixin.py:104} INFO - [2023-07-23 14:38:48,366] {dag.py:1818} INFO - Sync 1 DAGs
+[2023-07-23 14:38:48,372] {logging_mixin.py:104} INFO - [2023-07-23 14:38:48,372] {dag.py:2273} INFO - Setting next_dagrun for covid19 to 2023-07-23 14:16:44.419404+00:00
+[2023-07-23 14:38:48,376] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/covid19.py took 0.508 seconds

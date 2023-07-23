@@ -1,0 +1,5 @@
+{
+    "COVID19_PATH_RAW": "./datalake/raw/covid19",
+    "COVID19_PATH_REFINED": "./datalake/refined",
+    "COVID19_PATH_TRUSTED": "./datalake/trusted"
+}
